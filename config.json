@@ -1,0 +1,17 @@
+{
+    "model": "gpt-3.5-turbo",
+    "memory_characters": 8000,
+    "api_key": "ng-Hw3m6wjslRyr1R5XtlfgDG5s0c3U7",
+    "api_base": "https://api.naga.ac/v1",
+    "discord_token":  "MTIwMDEwMzI0MzQ0ODA2NjA1OQ.G-tDmA.1xFGEJnrugLOuny5dgYdOp7xF7SCyYzD_cG7rs",
+    "presence": "you study!",
+    "context": [
+        {
+            "discord_name": "NinjuDev",
+            "personality": "NinjuDev is a developer."
+        }
+    ],
+    "global_personality": "you are chatgpt.",
+    "system_context": "chatgpt is a good assitant",
+    "error_message": "I am having error connecting to ChatGPT, Pls consider asking again :smile:"
+}
